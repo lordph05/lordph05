@@ -17,6 +17,7 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div></br>
+Portifólio > http://localhost:4173/react-portfolio-main/
 A tecnologia move o mundo.
 
 
